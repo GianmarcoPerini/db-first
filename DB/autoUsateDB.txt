@@ -1,0 +1,23 @@
+marca - stringa - VARCHAR(100)
+modello - stringa - VARCHAR(100)
+prezzo - numero decimale - float(8,2)
+allestimento - stringa - VARCHAR(300)
+tipologia - stringa - VARCHAR(100)
+cambio - stringa - VARCHAR(100)
+numero porte - intero - TINYINT
+carburante - stringa - VARCHAR(100)
+immatricolazione - data - DATE
+chilometri_percorsi - intero - MEDIUMINIT
+marce_numero - intero - TINYINT
+trazione - stringa - VARCHAR(100)
+emissioni - stringa - VARCHAR(100)
+cilindrata - intero - SMALLINIT
+consumi - numero decimale - float(3,1)
+cilindri - intero - TINYINT
+potenza_cv - intero - SMALLINIT
+potenza_kw - numero decimale - float(4,2)
+peso_kg - intero - SMALLINIT
+lunghezza_m - numero decimale - float(3,2)
+larghezza_m - numero decimale - float(3,2)
+altezza_m - numero decimale - float(3,2)
+passo_m - intero - TINYINT
